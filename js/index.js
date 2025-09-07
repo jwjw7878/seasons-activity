@@ -1,5 +1,5 @@
 import loadDetail from "./detail.js";
-import initializeEvent from "./homeEvent.js";
+import initializeEvent from "./homeevent.js";
 import initializeSwipers from "./getSwiper.js";
 import getCart from "./cart.js";
 // header 배너 닫기 이벤트
