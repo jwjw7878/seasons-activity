@@ -1,0 +1,86 @@
+{
+  "surfboards": [
+    {
+      "id": 1,
+      "name": "WaveX Board",
+      "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque impedit doloremque repellat provident dolore quae ex ipsum tempore enim cupiditate nam commodi eius vel praesentium laboriosam temporibus nostrum, nulla facere!",
+      "price": 320000,
+      "discount": 0.2,
+      "images": "/images/surfboard1.png"
+    },
+    {
+      "id": 2,
+      "name": "II Board",
+      "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque impedit doloremque repellat provident dolore quae ex ipsum tempore enim cupiditate nam commodi eius vel praesentium laboriosam temporibus nostrum, nulla facere!",
+      "price": 340000,
+      "discount": 0.25,
+      "images": "/images/surfboard2.png"
+    },
+    {
+      "id": 3,
+      "name": "KIS Board",
+      "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque impedit doloremque repellat provident dolore quae ex ipsum tempore enim cupiditate nam commodi eius vel praesentium laboriosam temporibus nostrum, nulla facere!",
+      "price": 290000,
+      "discount": 0.1,
+      "images": "/images/surfboard3.png"
+    },
+    {
+      "id": 4,
+      "name": "Joel Board",
+      "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque impedit doloremque repellat provident dolore quae ex ipsum tempore enim cupiditate nam commodi eius vel praesentium laboriosam temporibus nostrum, nulla facere!",
+      "price": 300000,
+      "discount": 0.15,
+      "images": "/images/surfboard4.png"
+    },
+    {
+      "id": 5,
+      "name": "Extreme Board",
+      "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque impedit doloremque repellat provident dolore quae ex ipsum tempore enim cupiditate nam commodi eius vel praesentium laboriosam temporibus nostrum, nulla facere!",
+      "price": 340000,
+      "discount": 0.2,
+      "images": "/images/surfboard5.png"
+    }
+  ],
+  "wetsuits": [
+    {
+      "id": 1,
+      "name": "L Suit",
+      "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque impedit doloremque repellat provident dolore quae ex ipsum tempore enim cupiditate nam commodi eius vel praesentium laboriosam temporibus nostrum, nulla facere!",
+      "price": 120000,
+      "discount": 0.1,
+      "images": "/images/suit1.png"
+    },
+    {
+      "id": 2,
+      "name": "M Suit",
+      "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque impedit doloremque repellat provident dolore quae ex ipsum tempore enim cupiditate nam commodi eius vel praesentium laboriosam temporibus nostrum, nulla facere!",
+      "price": 140000,
+      "discount": 0.2,
+      "images": "/images/suit2.png"
+    },
+    {
+      "id": 3,
+      "name": "K Suit",
+      "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque impedit doloremque repellat provident dolore quae ex ipsum tempore enim cupiditate nam commodi eius vel praesentium laboriosam temporibus nostrum, nulla facere!",
+      "price": 135000,
+      "discount": 0,
+      "images": "/images/suit3.png"
+    },
+    {
+      "id": 4,
+      "name": "B Suit",
+      "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque impedit doloremque repellat provident dolore quae ex ipsum tempore enim cupiditate nam commodi eius vel praesentium laboriosam temporibus nostrum, nulla facere!",
+      "price": 134000,
+      "discount": 0.15,
+      "images": "/images/suit4.png"
+    },
+    {
+      "id": 5,
+      "name": "Z Suit",
+      "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque impedit doloremque repellat provident dolore quae ex ipsum tempore enim cupiditate nam commodi eius vel praesentium laboriosam temporibus nostrum, nulla facere!",
+      "price": 140000,
+      "discount": 0,
+      "images": "/images/suit5.png"
+    }
+  ]
+}
