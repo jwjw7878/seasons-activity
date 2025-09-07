@@ -1,6 +1,6 @@
 import loadDetail from "./detail.js";
-import initializeEvent from "./homeevent.js";
-import initializeSwipers from "./getSwiper.js";
+import initializeEvent from "./homevent.js";
+import initializeSwipers from "./getswiper.js";
 import getCart from "./cart.js";
 // header 배너 닫기 이벤트
 let banner = document.querySelector(".banner");
