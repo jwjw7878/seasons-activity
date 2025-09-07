@@ -1,0 +1,8 @@
+// base
+@use "base/variables" as *;
+@use "base/mixins" as *;
+@use "base/reset" as *;
+
+@use "components/header";
+@use "components/main";
+@use "components/footer";
